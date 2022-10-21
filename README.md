@@ -20,5 +20,7 @@ Basic ComputerScience Study
 ## Reference
 
 [신입 개발자 전공 지식 & 기술 면접 백과사전](https://github.com/jindream6128/tech-interview-for-developer)
+
 [개발자에게 필요한 CS지식 - 내용 정리 및 질의 응답](https://github.com/jindream6128/Tech_interview)
-![면접을 위한 CS 전공지식노트](https://gimg.gilbut.co.kr/book/BN003386/rn_view_BN003386.jpg)
+
+![면접을 위한 CS 전공지식노트](https://gimg.gilbut.co.kr/book/BN003386/rn_view_BN003386.jpg){width="100" height="100"}
