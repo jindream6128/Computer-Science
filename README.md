@@ -24,3 +24,7 @@ Basic ComputerScience Study
 [개발자에게 필요한 CS지식 - 내용 정리 및 질의 응답](https://github.com/jindream6128/Tech_interview)
 
 <img src="https://gimg.gilbut.co.kr/book/BN003386/rn_view_BN003386.jpg" width="10%" height="10%">
+
+
+> 여러 참고자료들을 따라서 타이핑하면서 공부하고 있습니다.
+혹시 문제가 될시 jindream6128@naver.com 으로 메일 주시면 바로 글 삭제 하겠습니다!
